@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'RobotoRegular_1';
+    src: url('../fonts/RobotoRegular_1.eot');
+    src: url('../fonts/RobotoRegular_1.eot') format('embedded-opentype'),
+         url('../fonts/RobotoRegular_1.woff2') format('woff2'),
+         url('../fonts/RobotoRegular_1.woff') format('woff'),
+         url('../fonts/RobotoRegular_1.ttf') format('truetype'),
+         url('../fonts/RobotoRegular_1.svg#RobotoRegular_1') format('svg');
+}
+@font-face {
+    font-family: 'NotoSansGeorgianRegular';
+    src: url('../fonts/NotoSansGeorgianRegular.eot');
+    src: url('../fonts/NotoSansGeorgianRegular.eot') format('embedded-opentype'),
+         url('../fonts/NotoSansGeorgianRegular.woff2') format('woff2'),
+         url('../fonts/NotoSansGeorgianRegular.woff') format('woff'),
+         url('../fonts/NotoSansGeorgianRegular.ttf') format('truetype'),
+         url('../fonts/NotoSansGeorgianRegular.svg#NotoSansGeorgianRegular') format('svg');
+}
+@font-face {
+    font-family: 'NotoSerifGeorgianRegular';
+    src: url('../fonts/NotoSerifGeorgianRegular.eot');
+    src: url('../fonts/NotoSerifGeorgianRegular.eot') format('embedded-opentype'),
+         url('../fonts/NotoSerifGeorgianRegular.woff2') format('woff2'),
+         url('../fonts/NotoSerifGeorgianRegular.woff') format('woff'),
+         url('../fonts/NotoSerifGeorgianRegular.ttf') format('truetype'),
+         url('../fonts/NotoSerifGeorgianRegular.svg#NotoSerifGeorgianRegular') format('svg');
+}
+@font-face {
+    font-family: 'MyriadProRegular';
+    src: url('../fonts/MyriadProRegular.eot');
+    src: url('../fonts/MyriadProRegular.eot') format('embedded-opentype'),
+         url('../fonts/MyriadProRegular.woff2') format('woff2'),
+         url('../fonts/MyriadProRegular.woff') format('woff'),
+         url('../fonts/MyriadProRegular.ttf') format('truetype'),
+         url('../fonts/MyriadProRegular.svg#MyriadProRegular') format('svg');
+}
